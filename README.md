@@ -1,4 +1,4 @@
-# MIST4610-Group-Project-2-Group4
+# MIST4610-Group-Project2-Group4
 
 ## Team Name: 
 21482 Group 4
